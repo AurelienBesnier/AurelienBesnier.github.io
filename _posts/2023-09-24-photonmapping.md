@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Photon Mapping"
-tags: light simulation plant
+title:  "First Post"
+tags: 
 ---
 
 # Welcome
